@@ -6,4 +6,5 @@ a controller script that touches, picks up and lets go of interactive objects wi
 text description and controller marker scripts for simple UI to identify items
 
 These were used in my HenryVR exhibition and add onto SteamVR scripting in Unity. 
-Compatible with the latest version of SteamVR as per 01/08/2018 EDIT: er, the haptics calls may not work, untested at this stage
+Works with SteamVR plugin v1.2.3
+**These scripts will not work with plugin v2, I am aware and will update this when I have time**
